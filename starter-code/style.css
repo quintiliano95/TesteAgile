@@ -85,9 +85,10 @@ input[type=number]::-webkit-inner-spin-button {
     -webkit-appearance: none;
 
 }
+
 input[type=number] {
-   -moz-appearance: textfield;
-   appearance: textfield;
+    -moz-appearance: textfield;
+    appearance: textfield;
 
 }
 
@@ -225,4 +226,41 @@ input[type=number] {
 #section-gradiente {
     background: linear-gradient(180deg, rgba(214, 252, 254, 0.25) 0%, rgba(214, 230, 254, 0.25) 100%);
     border-radius: 35px;
+}
+
+.cards {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    background-color: #d3e5f7;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.card h3 {
+    font-size: 18px;
+    color: #333;
+    display: flex;
+    align-items: center;
+    margin: 0 0 10px;
+}
+
+.card h3 .icon {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.card p {
+    color: #5b6d89;
+    margin: 0;
+    line-height: 1.4;
 }
