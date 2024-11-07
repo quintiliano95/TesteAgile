@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
           rel="stylesheet">
 
-    <title>Página Dividida em 4 Partes Horizontais</title>
+    <title>Cálculo IMC</title>
 </head>
 <body>
 
@@ -42,11 +42,11 @@
                         <input type="number" id="peso" placeholder="80" class="input" step="0.1">
                         <span class="unidade">KG</span>
                     </div>
-                    <button type="button" onclick="calcularIMC()" class="botao-calculo">
+                    <button type="button" onclick="calcularIMC()" class="botao-calculo radius">
                         Calcular IMC
                     </button>
                 </form>
-                <div id="resultado" class="result resultado fade-in hidden">
+                <div id="resultado" class="result resultado fade-in hidden radius">
                     <p class="bmi-value" id="valorIMC">--</p>
                     <p id="categoriaIMC" class="bmi-category">Informe sua altura e peso para calcular seu IMC.</p>
                 </div>
@@ -61,7 +61,7 @@
     </div>
     <div class="column">
         <div id="textContent2" class="inter-text textContent">
-            <h1>What your BMI result means</h1>
+            <h2>What your BMI result means</h2>
             <h3 class="inter-text2">A BMI range of 18.5 to 24.9 is considered a 'healthy weight.' Maintaining a healthy
                 weight may lower
                 your chances of experiencing health issues later on, such as obesity and type 2 diabetes. Aim for a
