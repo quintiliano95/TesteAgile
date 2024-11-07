@@ -1,5 +1,3 @@
-README
-
 Bom dia,
 
 Gostaria de informar que, devido a uma série de quedas de energia ocorridas durante a noite em meu bairro, alguns detalhes acabaram faltando na parte final do trabalho. Para evitar perdas, fiz diversos commits para salvar o que já havia concluído, pois, em uma dessas interrupções, acabei perdendo parte do progresso.
