@@ -128,8 +128,7 @@ body, html {
 .resultado {
     margin-top: 1.5rem;
     padding: 1rem;
-    background-color: #4299e1;
-    color: white;
+    background-color: rgba(94, 110, 133, 0.24);
     border-radius: 0.5rem;
     text-align: center;
 }
