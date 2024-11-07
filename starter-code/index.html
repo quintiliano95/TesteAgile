@@ -33,14 +33,16 @@
                 <h2 class="calculadora-titulo">Enter your details below</h2>
                 <form id="bmiForm" class="formulario">
                     <div class="campo">
-                        <label for="altura" class="label">Height</label>
-                        <input type="number" id="altura" placeholder="1,85" class="input" step="0.1">
-                        <span class="unidade">M</span>
-                    </div>
-                    <div class="campo">
-                        <label for="peso" class="label">Weight</label>
-                        <input type="number" id="peso" placeholder="80" class="input" step="0.1">
-                        <span class="unidade">KG</span>
+                        <label for="altura" class="label inter-text2">Height</label>
+                        <div class="input-container">
+                            <input type="number" id="altura" placeholder="1.85" class="input" step="0.1">
+                            <span class="unidade" style="color: #345FF6; font-size: 14px">M</span>
+                        </div>
+                        <label for="peso" class="label inter-text2">Weight</label>
+                        <div class="input-container">
+                            <input type="number" id="peso" placeholder="80" class="input" step="0.1">
+                            <span class="unidade" style="color: #345FF6; font-size: 14px">KG</span>
+                        </div>
                     </div>
                     <button type="button" onclick="calcularIMC()" class="botao-calculo radius">
                         Calcular IMC
@@ -77,7 +79,8 @@
         <div id="textContent3" class="inter-text textContent">
             <img src="assets/images/icon-eating.svg" alt="">
             <h3 style="margin-top: 24px">Healthy Eating</h3>
-            <h4 class="inter-text2" style="margin-top: 24px">Healthy eating promotes weight control, disease prevention, better digestion, immunity, mental clarity, and mood.</h4>
+            <h4 class="inter-text2" style="margin-top: 24px">Healthy eating promotes weight control, disease prevention,
+                better digestion, immunity, mental clarity, and mood.</h4>
         </div>
     </div>
 
@@ -85,7 +88,8 @@
         <div id="textContent4" class="inter-text textContent">
             <img src="assets/images/icon-exercise.svg" alt="">
             <h3 style="margin-top: 24px">Regular Exercise</h3>
-            <h4 class="inter-text2" style="margin-top: 24px">Exercise improves fitness, aids weight control, elevates mood, and reduces disease risk, fostering wellness and longevity.</h4>
+            <h4 class="inter-text2" style="margin-top: 24px">Exercise improves fitness, aids weight control, elevates
+                mood, and reduces disease risk, fostering wellness and longevity.</h4>
         </div>
     </div>
 
@@ -93,7 +97,8 @@
         <div id="textContent5" class="inter-text textContent">
             <img src="assets/images/icon-sleep.svg" alt="">
             <h3 style="margin-top: 24px">Adequate Sleep</h3>
-            <h4 class="inter-text2" style="margin-top: 24px">Sleep enhances mental clarity, emotional stability, and physical wellness, promoting overall restoration and rejuvenation.</h4>
+            <h4 class="inter-text2" style="margin-top: 24px">Sleep enhances mental clarity, emotional stability, and
+                physical wellness, promoting overall restoration and rejuvenation.</h4>
         </div>
     </div>
 </div>
