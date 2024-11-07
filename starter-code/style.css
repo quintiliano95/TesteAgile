@@ -8,7 +8,7 @@ body, html {
     height: 100%;
     display: flex;
     flex-direction: column;
-    font-family: Arial, sans-serif;
+    font-family: "Inter", sans-serif;
 }
 
 .section {
@@ -75,9 +75,10 @@ body, html {
     margin-top: 1rem;
     background-color: #3182ce;
     color: white;
-    padding: 0.5rem;
+    padding: 1.5rem;
     border-radius: 0.5rem;
     font-weight: 600;
+    font-size: 16px;
     cursor: pointer;
     transition: background-color 0.3s ease;
     text-align: center;
@@ -176,19 +177,3 @@ body, html {
         opacity: 1;
     }
 }
-
-/*#textContent2 {*/
-/*    text-align: center;*/
-/*    max-width: 90%;*/
-/*    margin: 0 auto;*/
-/*}*/
-
-/*#textContent2 h1 {*/
-/*    font-size: 32px;*/
-/*    margin-bottom: 10px;*/
-/*}*/
-
-/*#textContent2 h3 {*/
-/*    font-size: 18px;*/
-/*    line-height: 1.5;*/
-/*}*/

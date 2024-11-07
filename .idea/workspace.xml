@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e49d8aea-b068-439d-b2bc-46101be628be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/starter-code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/starter-code/index.html" afterDir="false" />
+    <list default="true" id="cadc46fe-2615-4610-b093-771d54976dcf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2oVOT9RxQvS6ZHjipuoWPqeK7F7" />
+  <component name="ProjectId" id="2oVldvBTYy6r6tEuWKpvjrIavrr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -29,9 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Alexandre/Documents/GitHub/TesteAgile",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -49,12 +47,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e49d8aea-b068-439d-b2bc-46101be628be" name="Changes" comment="" />
-      <created>1730951282026</created>
+      <changelist id="cadc46fe-2615-4610-b093-771d54976dcf" name="Changes" comment="" />
+      <created>1730962717992</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730951282026</updated>
-      <workItem from="1730951283172" duration="10931000" />
+      <updated>1730962717992</updated>
+      <workItem from="1730962719403" duration="1537000" />
     </task>
     <servers />
   </component>
