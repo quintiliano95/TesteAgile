@@ -22,6 +22,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 80px;
 }
 
 .calculadora-container {
@@ -91,18 +92,18 @@ body, html {
     display: none;
 }
 
-#textContent {
-    text-align: center;
+.textContent {
+    text-align: left;
     max-width: 90%;
     margin: 0 auto;
 }
 
-#textContent h1 {
+.textContent h1 {
     font-size: 32px;
     margin-bottom: 10px;
 }
 
-#textContent h3 {
+.textContent h3 {
     font-size: 18px;
     line-height: 1.5;
 }
@@ -175,3 +176,19 @@ body, html {
         opacity: 1;
     }
 }
+
+/*#textContent2 {*/
+/*    text-align: center;*/
+/*    max-width: 90%;*/
+/*    margin: 0 auto;*/
+/*}*/
+
+/*#textContent2 h1 {*/
+/*    font-size: 32px;*/
+/*    margin-bottom: 10px;*/
+/*}*/
+
+/*#textContent2 h3 {*/
+/*    font-size: 18px;*/
+/*    line-height: 1.5;*/
+/*}*/
