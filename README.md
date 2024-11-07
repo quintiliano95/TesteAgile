@@ -1,12 +1,8 @@
-## Welcome! 👋
+README
+Bom dia,
 
-### Expected behaviour
+Gostaria de informar que, devido a uma série de quedas de energia ocorridas durante a noite em meu bairro, alguns detalhes acabaram faltando na parte final do trabalho. Para evitar perdas, fiz diversos commits para salvar o que já havia concluído, pois, em uma dessas interrupções, acabei perdendo parte do progresso.
 
-Below you will find the BMI ranges and their weight classifications. Based on the person's BMI results, add their weight classification to the sentence "Your BMI suggests you’re" within the results component.
+Inclusive, precisei finalizar essa etapa usando o notebook da minha esposa. Assim, a parte dos cards não ficou totalmente fiel ao modelo do Figma. Por fim, espero que as demais partes estejam de acordo com as expectativas.
 
-- Underweight: BMI less than 18.5
-- Healthy weight: BMI 18.5 to 24.9
-- Overweight: BMI 25 to 29.9
-- Obese: BMI 30 or greater
-
-Add the individual's healthy weight range based on the lower and upper BMI categorisations and the person's height.
+Obrigado pela compreensão.
